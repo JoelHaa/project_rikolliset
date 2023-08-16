@@ -1,2 +1,2 @@
 # project_rikolliset
-Kouluajan javaprojekti
+Kouluajan javaprojekti, tekstikäyttöliittymällinen java peli.
